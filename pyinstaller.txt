@@ -1,0 +1,1 @@
+pyinstaller -F -i "icon.ico" --onefile --name "redux.exe" main.py
